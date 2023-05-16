@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-15719
-Fork on GitHub
-4337
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi, you can call me Ruoxi</h1>
 <h3 align="center">Now I regret that I have no internship experience</h3>
 
