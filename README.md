@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalaxy9&label=Profile%20views&color=0e75b6&style=flat" alt="kalaxy9" /> </p>
 
-- 🌱 I’m currently learning **Java,node.js,redis**
+- 🌱 I’m currently seeking a full-time product position in the internet industry, with experience in Java and Python development, as well as foundational knowledge in artificial intelligence and deep learning model development.
 
 - 📫 How to reach me **kathylirx@outlook.com**
 
